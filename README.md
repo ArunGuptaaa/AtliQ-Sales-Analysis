@@ -1,4 +1,4 @@
-# 📊 Sales & Forecasting Analysis (SQL Project)
+# 📊 AtliQ Sales Analysis (SQL Project)
 
 This project showcases an end-to-end SQL-based data analysis performed on a real-world manufacturing dataset containing **7M+ records**. The analysis was designed to support data-driven decisions, streamline reporting, and uncover key sales and market performance insights.
 
